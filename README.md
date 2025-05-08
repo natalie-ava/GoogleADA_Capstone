@@ -28,7 +28,7 @@ This project explores employee departure patterns at a mid-sized company using l
 | salary                 | The employee's salary level (e.g., low, medium, high)                    |
 
 
-## Technologies Used
+## Tools Used
 
 - Python 
 - Pandas for data manipulation  
