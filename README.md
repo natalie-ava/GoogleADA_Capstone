@@ -76,7 +76,7 @@ The confusion matrix below shows the performance of the logistic regression mode
 
 ## Repository Contents
 
-- [`NHuang_GoogleADA_Capstone.ipynb`]: Final notebook containing exploratory and visual analysis, modeling, and results
+- [`NHuang_GoogleADA_Capstone.ipynb`](https://github.com/natalie-ava/GoogleADA_Capstone/blob/main/NHuang_GoogleADA_Capstone.ipynb): Final notebook containing exploratory and visual analysis, modeling, and results
 - [`data/`]: original and leaned dataset used in this project
 - [`images/`]: Visualizations including confusion matrix and correlation heatmaps
 - [`results/`]: Model outputs and reports
