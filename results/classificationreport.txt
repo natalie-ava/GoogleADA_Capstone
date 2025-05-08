@@ -1,0 +1,15 @@
+Logistic Regression Classification Report
+
+               precision    recall  f1-score   support
+
+           0       0.86      0.97      0.91      1998
+           1       0.58      0.23      0.33       401
+
+    accuracy                           0.84      2399
+   macro avg       0.72      0.60      0.62      2399
+weighted avg       0.82      0.84      0.81      2399
+
+Notes:
+- Class 0 = Employees who stayed
+- Class 1 = Employees who left
+- Model shows strong performance in predicting retention, but recall for identifying departures is limited.
